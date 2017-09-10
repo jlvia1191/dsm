@@ -1,4 +1,3 @@
-# dsm
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
@@ -8,6 +7,9 @@ dsm
 ========
 
 An implementation of the Estimation of the log likelihood of the saturated model. 
+
+This package calculates the estimation of the log likelihood of the saturated model, 
+  when the values of the outcome variable are either 0 or 1.
 
 *The development of this software was supported in part by NSF Postdoctoral Fellowship DMS-0903120*
 
