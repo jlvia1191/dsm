@@ -1,0 +1,18 @@
+Package: dsm
+Type: Package
+Title: Estimation of the log likelihood of the saturated model
+Version: 0.1.0
+Date: 2017-06-22
+Author: Omar Fabregas [cre],
+  Jorge Villalba [cre],
+  Humberto Llinas [aut, cre].
+Maintainer: Jorge villalba <jlvia1191@gmail.com>
+Description: This package calculates the estimation of the log likelihood of the saturated model, 
+  when the values of the outcome variable are either 0 or 1.
+Depends: R (>= 3.1.0),stats,reshape2
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 6.0.1
+Collate:
+    'dsm.R'
+    
